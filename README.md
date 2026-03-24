@@ -13,7 +13,6 @@ COMPAS Scores dataset
 ![Status](https://img.shields.io/badge/Status-Research-orange)
 ![Fairness](https://img.shields.io/badge/Focus-Algorithmic%20Fairness-red)
 ![Dataset](https://img.shields.io/badge/Dataset-COMPAS-purple)
-![College](https://img.shields.io/badge/ABHIGYA-2026-darkblue)
 
 ---
 
