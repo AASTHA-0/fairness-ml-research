@@ -148,4 +148,15 @@ jupyter
 kaggle
 
 
+## 📁 Project Structure
+```
+fairsight/
+│
+├── 📓 fairsight_research(1).ipynb     # Main research notebook
+├── 📊 compas_scores.csv            # Dataset
+├── 📄 README.md                    # You are here
+
+
+
+
 
